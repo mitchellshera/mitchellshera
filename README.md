@@ -39,8 +39,8 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" **alt="django" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" **alt="heroku" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-plain-wordmark.svg" title="sass" **alt="sass" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
 ---
 
 ### :fire: My Stats :
