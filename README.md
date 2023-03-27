@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitchellshera&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://mitchellshera-blqx.vercel.app//api/top-langs/?username=mitchellshera&theme=tokyonight)  
+  
+![Top Langs](https://mitchellshera-9z2e-1amevt04y-mitchellshera.vercel.app//api/top-langs/?username=mitchellshera&theme=tokyonight)  
  
 </div>
 
