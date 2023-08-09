@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitchellshera&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
-![Top Langs](https://mitchellshera-9z2e-1amevt04y-mitchellshera.vercel.app//api/top-langs/?username=mitchellshera&theme=tokyonight)  
- 
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mitchellshera&show_icons=true)](https://github.com/mitchellshera)
+
 </div>
 
 </div>
